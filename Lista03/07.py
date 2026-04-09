@@ -6,6 +6,6 @@ while i < 5:
     n = float(input(f'Digite o {i} número: '))
     if numerom == True:
         numerom = n
-    elif n > nm:
+    elif n > numerom:
         numerom = n
-print(numerom)
+print(f'O maior número é {numerom}.')
