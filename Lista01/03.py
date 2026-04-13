@@ -1,5 +1,5 @@
-letra=input('Digete a inicial do seu Sexo: ')
-if letra=='F':
-    print('É Feminino')
-if letra=='M':
-    print('É masculino, Sexo invalido')
+sexo=input('Digite seu sexo:(F/M) ')
+if sexo=='F':
+    print('Feminino.')
+else:
+    print('Masculino, Sexo inválido.')

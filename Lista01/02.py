@@ -1,5 +1,5 @@
-n1=float(input('Digite um número: '))
+n1=int(input('Digite um número: '))
 if n1>=0:
-    print(f'{n1} é positivo.')
+    print('Seu número é positivo')
 else:
-    print(f'{n1} é negativo')
+    print('Seu número é negativo')
