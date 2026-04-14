@@ -4,3 +4,6 @@ i = 0
 while i < 10:
     i += 1
     print(f'{n1} X {i} = {n1*i}')
+
+#for i in range(11):
+#    print(f'{n1} X {i} = {n1*i}')
