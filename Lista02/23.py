@@ -15,5 +15,5 @@ for x in range(n):
             divisivel += str(i) + '|'
     if teste == 1:
         primo = True
-        p += str(x) + ' é primo ' + f'| Foram executadas {x} divisões\n'
+        p += str(x) + ' é primo ' + f'| Foram executadas {x} testes.\n'
 print(p)
